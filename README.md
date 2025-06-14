@@ -54,7 +54,7 @@ By integrating such a model into a lending platform, teams can:
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-loan-default-prediction.git
+git clone https://github.com/datawithyash/student-loan-default-prediction.git
 cd student-loan-default-prediction
 pip install -r requirements.txt
 jupyter notebook
